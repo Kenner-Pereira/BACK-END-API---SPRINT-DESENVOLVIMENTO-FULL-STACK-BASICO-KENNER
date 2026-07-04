@@ -1,11 +1,3 @@
-# BACK-END-API---SPRINT-DESENVOLVIMENTO-FULL-STACK-BASICO-KENNER
-Back end / API de um projeto para cadastro de usuários de uma papelaria
-
-
-Utilização para cadastrar / buscar e deletar usuários de uma lista criando um banco de dados atualizado de clientes de uma papelaria .
-
-Instrução de instalação :
-
 ## Como executar a API do cadastro de usuários da papelaria
 
 
@@ -48,4 +40,3 @@ flask run --host 0.0.0.0 --port 5000 --reload
 ```
 
 Abra o [http://localhost:5000/#/] (http://localhost:5000/#/) no navegador para verificar o status da API em execução.
-
