@@ -1,3 +1,9 @@
+## CADASTRO DE USUARIOS DE UMA PAPELARIA 
+
+Este projeto tem como objetivo realizar o cadastro de usuarios de uma papelaria para que se obtenha um
+banco de dados atualizado de clientes de uma papelaria
+
+
 ## Como executar a API do cadastro de usuários da papelaria
 
 
